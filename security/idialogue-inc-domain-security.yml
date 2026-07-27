@@ -1,0 +1,16 @@
+generated: '2026-07-19'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: idialogue.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Dec 29 13:26:54 2026 GMT
+  hsts: false
+domains:
+- domain: idialogue.com
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: true
+  dmarc_policy: quarantine
