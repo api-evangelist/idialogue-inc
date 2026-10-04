@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/idialogue-inc.png
-name: iDialogue Inc.
+name: iDialogue
 description: iDialogue Inc. is a company surfaced as a portfolio company of 500-global and added to the
   API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/idialogue-inc/refs/heads/main/apis.yml
@@ -53,3 +53,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: iDialogue Inc.
